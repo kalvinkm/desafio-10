@@ -6,5 +6,6 @@
         "Pirulito",
         "Rosquinha",
         "Torrone"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
